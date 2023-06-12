@@ -1,3 +1,1 @@
-## Verification writeups for n00bzCTF 2023 (by po_beda)
-
-
+## Verification writeups for n00bzCTF 2023
